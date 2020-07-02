@@ -1,6 +1,6 @@
 # Hash Based Signatures (HBS): Literature
 
-This repository contains a literature surveyr about Hash-based cryptography.
+This repository contains a literature survey about Hash-based cryptography.
 
 * A Fast Hash Tree Generator For Merkle Signature Scheme
 * A Server-assisted Hash-based Signature Scheme
