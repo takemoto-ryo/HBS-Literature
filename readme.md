@@ -1,1 +1,1 @@
-= Hash Based Signatures (HBS): Literature =
+#Hash Based Signatures (HBS): Literature
